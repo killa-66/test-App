@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from 'react';
-import '../App.css';
-import Table1 from './Table1';
+import './App.css';
+import Main from './components/Main';
 
 const App: React.FC = () => {
   return (
     <div className="App">
-      <Table1 />
+      <Main />
     </div>
   );
 };

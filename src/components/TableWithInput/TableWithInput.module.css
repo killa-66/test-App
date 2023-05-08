@@ -1,0 +1,39 @@
+.table__title {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.table__subtitle {
+  display: flex;
+  justify-content: space-around;
+}
+
+.table__th_spacing {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.table__td_spacing {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.table_with_input {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+
+
+.table__button {
+  display: flex;
+  align-items: center;
+  margin: auto;
+}

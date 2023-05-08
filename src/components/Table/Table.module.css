@@ -1,0 +1,16 @@
+.table {
+  margin-bottom: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.table__subtitle {
+  margin-top: 20px;
+  min-width: 90px;
+  border: 2px solid slateblue;
+}
+.table__subtitle:hover {
+  cursor: pointer;
+}
